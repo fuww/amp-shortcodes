@@ -1,3 +1,3 @@
-module gitlab.com/fashionunited/public/amp-shortcodes
+module github.com/fuww/amp-shortcodes
 
 go 1.19
